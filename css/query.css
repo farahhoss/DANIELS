@@ -25,6 +25,9 @@
   #about .about-right .about-progress .progress-bar3::after {
     left: 360px;
   }
+ .header-titel {
+  width: 75%;
+}
   .header-titel h3:after {
     width: 83%;
 
